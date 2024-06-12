@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Recordatorio-de-tareas/static/css/main.eb91c3b6.css",
+    "main.js": "/Recordatorio-de-tareas/static/js/main.531f66ff.js",
+    "index.html": "/Recordatorio-de-tareas/index.html",
+    "static/media/delete.svg": "/Recordatorio-de-tareas/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/Recordatorio-de-tareas/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.eb91c3b6.css.map": "/Recordatorio-de-tareas/static/css/main.eb91c3b6.css.map",
+    "main.531f66ff.js.map": "/Recordatorio-de-tareas/static/js/main.531f66ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb91c3b6.css",
+    "static/js/main.531f66ff.js"
+  ]
+}
